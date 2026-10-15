@@ -1,0 +1,1 @@
+The supplied source references /assets images, but the uploaded files did not include those image files. Copy your existing YAGELA assets into this folder or update image URLs from the Admin Dashboard.
